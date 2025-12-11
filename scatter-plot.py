@@ -31,9 +31,9 @@ options = st.sidebar.selectbox("Pilih contoh scatter plot:",
 
 # Identitas Kelompok
 st.title("Praktikum 5 - Scatter Plot")
-st.write("Kelompok 2:")
+st.write("Kelompok 31:")
 st.markdown("""
-Kelompok 21
+Kelompok 31
 - Ahmad Yasin (0110222094)
 - Muhammad Lutfi Alfian (0110122076) 
 - Farhan Ijayansyah (0110222039)
